@@ -1,0 +1,18 @@
+Missing Values Summary:
+Survived         0
+Pclass           0
+Age              0
+SibSp            0
+Parch            0
+Fare             0
+Age_Disc         0
+FamilySize       0
+Sex_female       0
+Sex_male         0
+Embarked_C       0
+Embarked_Q       0
+Embarked_S       0
+TopFeatures      0
+AgeGroup         0
+FareCategory    15
+dtype: int64
